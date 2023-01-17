@@ -1,4 +1,4 @@
 import './styles/styles.css';
 
-
-document.getElementById('app').innerHTML = 'hellow world';
+const value = document.getElementById('app');
+value.innerHTML = 'hello World';
